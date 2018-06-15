@@ -1,6 +1,6 @@
 # Machine-Learning-Assignments
 
-This repository was created to share my solutions for the first 02 assignments done on the [Machine Learning and Pattern Recognition](https://www.ic.unicamp.br/~rocha/teaching/index.html] class in my master's degree. All the problems presenteded on this class had some requirements and restrictions regarding strategies and techiniques that imposed sometimes a pre-defined methodology to be followed. All of those points are discussed on the reports.
+This repository was created to share my solutions for the first 02 assignments done on the [Machine Learning and Pattern Recognition](https://www.ic.unicamp.br/~rocha/teaching/index.html) class in my master's degree. All the problems presenteded on this class had some requirements and restrictions regarding strategies and techiniques that imposed sometimes a pre-defined methodology to be followed. All of those points are discussed on the reports.
 
 For each task there is a jupyter notebook containing the solution developed and a writen report explaining step by step of how the results were achivied as well as the dificulties/limitations found on each problem. You can find those reports on the following links:
 
